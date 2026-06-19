@@ -1,0 +1,7 @@
+id = "neovim-minimal"
+name = "Neovim Minimal"
+version = "0.0.1"
+schema_version = 1
+authors = ["Maroisa"]
+description = "Zed neovim minimal, modified from Kim Nørgaard's"
+repository = "https://github.com/maroisa/zed-neovim-minimal"
