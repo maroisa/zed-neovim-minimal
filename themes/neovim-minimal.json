@@ -258,6 +258,7 @@
         "text.muted": "#9b9ea4",
         "text.placeholder": "#e0e2ea70",
         "title_bar.background": "#1E222BFF",
+        "title_bar.inactive_background": "#1E222BFF",
         "toolbar.background": "#242933FF",
         "unreachable": "#9b9ea4",
         "unreachable.background": "#2c2e33",
